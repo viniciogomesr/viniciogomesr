@@ -10,4 +10,4 @@
 </div>
 
 ### Meu Primeiro Site Funcional 🌐:
-[![Projeto-Android]([https://img.shields.io/website-up-down-green-red/http/monip.org.svg](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white))](https://viniciogomesr.github.io/projeto-android/)
+[![Projeto-Android]([https://img.shields.io/website-up-down-green-red/http/monip.org.svg](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://viniciogomesr.github.io/projeto-android/)
