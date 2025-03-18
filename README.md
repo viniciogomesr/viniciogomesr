@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viniciogomesr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciogomesr/)
 
-### Tecnologias Que Estudo Atualmente ⌨️:
+### Tecnologias Que Estudo ⌨️:
 <div style="display: inline_block"><br>
     <a href="#" onclick="return false;"><img align="center" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"></a>
     <a href="#" onclick="return false;"><img align="center" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"></a>
